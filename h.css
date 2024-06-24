@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(215, 255, 37);
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+b {
+  text-align: center;
+}
+button {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+}
+p {
+  font-size: 20px;
+}
+
+div {
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+nav {
+  text-align: center;
+}

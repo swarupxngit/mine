@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 45px;
+}
+button {
+  text-align: center;
+  color: rgb(255, 15, 15);
+  font-size: 25px;
+}
+
+nav {
+  text-align: center;
+}
+h2 {
+}
